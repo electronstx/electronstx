@@ -7,28 +7,34 @@
 - 🌱 Изучаю новые фреймворки и алгоритмы.
 - 💬 Спрашивайте меня о: **Web Development, JavaScript**.
 
+## 🛠 Технологический стек
+
+### 🎮 Game Development & Graphics
+*   **Engines:** `Unity` (C#), `Phaser.js`, `Pixi.js`
+*   **Animation:** `GSAP.js`, `Spine` (2D скелетная анимация)
+*   **Audio:** `Howler.js` (Web Audio API)
+
+### 🌐 Frontend Core
+*   **Languages:** `TypeScript`, `JavaScript` (ES6+), `C#`
+*   **Frameworks:** `React`, `Svelte`
+*   **State Management:** `MobX`
+*   **UI & Styling:** `HTML5`, `CSS3` (SASS/SCSS), Canvas API
+
+### ⚡ Real-time & Backend Integration
+*   **Networking:** `WebSocket`, `Centrifuge.js`, `Photon Engine`
+*   **Security:** `BouncyCastle` (Криптография)
+
+### 🧰 Tools & Environment
+*   **Build Tools:** `Vite`
+*   **Version Control:** `Git`, `GitHub`
+
 ---
 
-## 🛠 Технологии
-
-### 💻 Frontend Development
-[![Frontend](https://skillicons.dev/icons?i=react,ts,js,html,css)](https://skillicons.dev)
-### 🎮 Game Development
-[![Game](https://skillicons.dev/icons?i=pixi,gsap,howler,phaser,unity,csharp)](https://skillicons.dev)
-### 🛠 Tools & Environment
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,postman)](https://skillicons.dev)
-### 🎮 Game Dev & Animation
-### 🎮 Game Dev & Animation
-<img src="badgen.net" alt="PixiJS">
-<img src="badgen.net" alt="Phaser">
-<img src="badgen.net" alt="GSAP">
-<img src="badgen.net" alt="Howler">
+## 📊 GitHub Activity
+*(Статистика отключена для повышения стабильности профиля. Актуальные коммиты можно увидеть в списке репозиториев ниже)*
 
 ---
 
-## 📫 Как со мной связаться
-<p align="left">
-  <a href="github.com" target="_blank">
-    <img src="img.shields.io" alt="GitHub" />
-  </a>
-</p>
+## 📫 Контакты
+*   **GitHub:** [electronstx](github.com)
+*   **Telegram:** [@electronstx]
