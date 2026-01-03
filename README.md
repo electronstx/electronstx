@@ -11,9 +11,9 @@
 
 ## 🛠 Технологии
 
-###💻 Frontend Development
+### 💻 Frontend Development
 [![Frontend](https://skillicons.dev/icons?i=react,ts,js,html,css)](https://skillicons.dev)
-###🛠 Tools & Environment
+### 🛠 Tools & Environment
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,postman)](https://skillicons.dev)
 
 ---
