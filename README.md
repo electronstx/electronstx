@@ -1,7 +1,7 @@
 # 👋 Привет, я electronstx!
 
 <p align="center">
-  <img src="github-readme-stats-eight-theta.vercel.app" alt="Stats" />
+  <img src="metrics.lecoq.io" alt="Metrics" />
 </p>
 
 ## 🚀 Обо мне
