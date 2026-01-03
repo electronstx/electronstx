@@ -21,41 +21,24 @@
 
 # Привет, я electronstx 👋
 
-Разработчик, увлеченный созданием полезных инструментов и игровых механик.
+Разработчик, сфокусированный на создании полезных инструментов и экспериментах с геймдевом.
 
 ### 🚀 Основные проекты
-
-*   **[currency-converter](github.com)** — Утилита для конвертации валют.
-*   **[game-lab](github.com)** — Площадка для экспериментов в разработке игр.
+- **[currency-converter](github.com)** — Утилита для работы с валютами.
+- **[game-lab](github.com)** — Лаборатория для игровых механик.
 
 ### 🛠 Стек технологий
-
-<img src="img.shields.io" /> <img src="img.shields.io" /> <img src="img.shields.io" /> <img src="img.shields.io" />
-
----
-
-### 📊 Статистика GitHub
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="github-readme-stats.vercel.app" alt="electronstx's GitHub stats" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="github-readme-stats.vercel.app" alt="Most Used Languages" width="100%" />
-    </td>
-  </tr>
-</table>
+[![My Skills](skillicons.dev)](https://skillicons.dev)
 
 ---
 
-📫 **Как меня найти:** [GitHub](github.com)
-
+### 📊 GitHub Activity
+<!-- Используем альтернативный стабильный сервер для статистики -->
 <p align="left">
-  <img height="180em" src="github-readme-stats.vercel.app" />
-  <img height="180em" src="github-readme-stats.vercel.app" />
+  <img src="github-readme-stats-sigma-five.vercel.app" alt="stats" height="150" />
+  <img src="github-readme-stats-sigma-five.vercel.app" alt="languages" height="150" />
 </p>
 
 ---
 
-📫 **Связь со мной:** [GitHub Profile](https://
+📫 **Связь:** [GitHub Profile](github.com)
