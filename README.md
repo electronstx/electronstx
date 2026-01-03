@@ -13,6 +13,8 @@
 
 ### 💻 Frontend Development
 [![Frontend](https://skillicons.dev/icons?i=react,ts,js,html,css)](https://skillicons.dev)
+### 🎮 Game Development
+[![Game](https://skillicons.dev/icons?i=pixi,gsap,howler,phaser,unity,csharp)](https://skillicons.dev)
 ### 🛠 Tools & Environment
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,postman)](https://skillicons.dev)
 
