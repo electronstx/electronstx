@@ -37,6 +37,6 @@
 ---
 
 ## 📫 Контакты
-*   **GitHub:** [electronstx](https://github.com)
-*   **Telegram:** [@electronstx](https://t.me)
-*   **VK:** [electronstx](https://vk.com)
+*   **GitHub:** [electronstx](https://github.com/electronstx)
+*   **Telegram:** [@electronstx](https://t.me/electronstx)
+*   **VK:** [electronstx](https://vk.com/electronstx)
