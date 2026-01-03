@@ -1,7 +1,7 @@
 # 👋 Привет, я electronstx!
 
 <p align="center">
-  <img src="metrics.lecoq.io" alt="Metrics" />
+  <img src="github-profile-summary-cards.vercel.app" alt="Stats" />
 </p>
 
 ## 🚀 Обо мне
