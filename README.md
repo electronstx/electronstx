@@ -18,3 +18,34 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 </p>
+
+# Привет, я electronstx 👋
+
+Разрабатываю инструменты и экспериментирую с геймдевом. Мой фокус — чистый код и функциональность.
+
+### 🛠 Мои основные проекты:
+
+- **[currency-converter](github.com)** — Конвертер валют с актуальными курсами и фокусом на удобство интерфейса.
+- **[game-lab](github.com)** — Лаборатория для игровых механик и визуальных экспериментов.
+
+---
+
+### 💻 Стек технологий:
+
+![JavaScript](img.shields.io)
+![TypeScript](img.shields.io)
+![HTML5](img.shields.io)
+![CSS3](img.shields.io)
+
+---
+
+### 📊 GitHub Stats:
+
+<p align="left">
+  <img height="180em" src="github-readme-stats.vercel.app" />
+  <img height="180em" src="github-readme-stats.vercel.app" />
+</p>
+
+---
+
+📫 **Связь со мной:** [GitHub Profile](https://
