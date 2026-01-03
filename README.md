@@ -18,16 +18,11 @@
 ### 🛠 Tools & Environment
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,postman)](https://skillicons.dev)
 ### 🎮 Game Dev & Animation
-<p align="left">
-  <!-- PixiJS -->
-  <img src="img.shields.io" alt="PixiJS" />
-  <!-- Phaser -->
-  <img src="img.shields.io" alt="Phaser" />
-  <!-- GSAP -->
-  <img src="img.shields.io" alt="GSAP" />
-  <!-- Howler.js (используем иконку звука, так как логотипа нет в базе) -->
-  <img src="img.shields.io" alt="Howler" />
-</p>
+### 🎮 Game Dev & Animation
+<img src="badgen.net" alt="PixiJS">
+<img src="badgen.net" alt="Phaser">
+<img src="badgen.net" alt="GSAP">
+<img src="badgen.net" alt="Howler">
 
 ---
 
