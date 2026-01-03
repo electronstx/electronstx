@@ -21,24 +21,24 @@
 
 # Привет, я electronstx 👋
 
-Разработчик, сфокусированный на создании полезных инструментов и экспериментах с геймдевом.
+Разрабатываю интерфейсы и исследую игровые механики.
 
-### 🚀 Основные проекты
-- **[currency-converter](github.com)** — Утилита для работы с валютами.
-- **[game-lab](github.com)** — Лаборатория для игровых механик.
+### 🚀 Проекты
+- **[currency-converter](github.com)** — Конвертер валют на React/TypeScript.
+- **[game-lab](github.com)** — Экспериментальные игровые модули.
 
 ### 🛠 Стек технологий
-[![My Skills](skillicons.dev)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,html,css"/>
+</a>
 
----
-
-### 📊 GitHub Activity
-<!-- Используем альтернативный стабильный сервер для статистики -->
+### 📊 Активность
 <p align="left">
-  <img src="github-readme-stats-sigma-five.vercel.app" alt="stats" height="150" />
-  <img src="github-readme-stats-sigma-five.vercel.app" alt="languages" height="150" />
+  <img src="github-readme-stats.vercel.app" height="150" alt="stats" />
+  <img src="github-readme-stats.vercel.app" height="150" alt="languages" />
 </p>
 
 ---
 
-📫 **Связь:** [GitHub Profile](github.com)
+📫 **Связь:** [GitHub](github.com)
+
