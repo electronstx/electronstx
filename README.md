@@ -1,9 +1,5 @@
 # 👋 Привет, я electronstx!
 
-<p align="center">
-  <img src="github-profile-summary-cards.vercel.app" alt="Stats" />
-</p>
-
 ## 🚀 Обо мне
 Я занимаюсь веб-разработкой, фокусируясь на создании удобных и функциональных инструментов. Мой текущий стек включает JavaScript и современные веб-технологии.
 
@@ -16,15 +12,8 @@
 ## 🛠 Технологии
 💻 Frontend Development
 [![Frontend](https://skillicons.dev/icons?i=react,ts,js,html,css)](https://skillicons.dev)
+🛠 Tools & Environment
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,postman)](https://skillicons.dev)
-
----
-
-## 📊 Моя статистика
-<p align="center">
-  <img height="180em" src="github-readme-stats.vercel.app" />
-  <img height="180em" src="github-readme-stats.vercel.app" />
-</p>
 
 ---
 
