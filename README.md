@@ -14,13 +14,8 @@
 ---
 
 ## 🛠 Технологии
-<p align="left">
-  <img src="img.shields.io" alt="JavaScript" />
-  <img src="img.shields.io" alt="HTML5" />
-  <img src="img.shields.io" alt="CSS3" />
-  <img src="img.shields.io" alt="Git" />
-</p>
-
+💻 Frontend Development
+[![Frontend](https://skillicons.dev/icons?i=react,ts,js,html,css)](https://skillicons.dev)
 ---
 
 ## 📂 Избранные проекты
